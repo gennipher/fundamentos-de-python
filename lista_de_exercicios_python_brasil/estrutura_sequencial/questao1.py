@@ -1,0 +1,9 @@
+import turtle
+
+turtle.Screen()
+turtle.shape('turtle')
+
+for i in range(360):
+    turtle.forward(1)
+    turtle.left(1)
+    
